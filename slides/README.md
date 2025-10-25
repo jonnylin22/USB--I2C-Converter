@@ -1,5 +1,5 @@
 # USB to I2C Converter Version 1
-## Custom keychain size PCB for conversion of USB communication protocal to I2C and UART embedded systems communications protocols
+### Custom keychain size PCB for conversion of USB communication protocal to I2C and UART embedded systems communications protocols
 
 
 <!-- Slide 01 -->
